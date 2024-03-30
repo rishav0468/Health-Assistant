@@ -21,3 +21,4 @@ app_id =  '{get your key from infermedica}'
 app_key = "{get your key from infermedica}"
 ```# ai
 # ai
+# ai
