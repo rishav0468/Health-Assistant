@@ -20,3 +20,4 @@ Request API credentials here: https://infermedica.com then edit the following in
 app_id =  '{get your key from infermedica}'
 app_key = "{get your key from infermedica}"
 ```# ai
+# ai
